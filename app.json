@@ -22,6 +22,5 @@
       "value": "http://localhost/parse"
     }
   },
-  "image": "heroku/nodejs",
-  "addons": ["mongolab"]
+  "image": "heroku/nodejs"
 }
